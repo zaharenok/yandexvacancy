@@ -1,6 +1,3 @@
-from itertools import count
-from re import L
-import unicodedata
 import requests
 from bs4 import BeautifulSoup
 import json
